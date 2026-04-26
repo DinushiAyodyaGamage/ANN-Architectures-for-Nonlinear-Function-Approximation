@@ -1,6 +1,7 @@
 streamlit==1.49.1
 tensorflow==2.19.0
-numpy
-pandas
-matplotlib
-h5py
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.8.4
+h5py==3.12.1
+protobuf<5
